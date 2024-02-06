@@ -4,4 +4,5 @@
 }
 .lista{
     display: flex;
+    text-align: left;
 }
