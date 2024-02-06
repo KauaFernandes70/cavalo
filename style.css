@@ -1,9 +1,17 @@
 .cabecalho{
     display: flex;
+    align-items: center;
     
 }
 .lista{
     display: flex;
     justify-content: center;
     text-align: right;
+}
+.cabecalho-logo{
+    display: flex;
+}
+.lista item{
+    margin: 30%;
+    
 }
