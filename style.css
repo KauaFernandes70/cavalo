@@ -4,5 +4,6 @@
 }
 .lista{
     display: flex;
-    text-align: left;
+    justify-content: center;
+    text-align: right;
 }
