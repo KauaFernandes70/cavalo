@@ -1,11 +1,13 @@
 .cabecalho{
     display: flex;
     align-items: center;
+    justify-content: space-around;
     
 }
 
 .lista{
     display: flex;
+    list-style-type: nome;
 }
 
 .cabecalho-logo{
