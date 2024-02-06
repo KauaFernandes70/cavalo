@@ -3,15 +3,16 @@
     align-items: center;
     
 }
+
 .lista{
     display: flex;
-    justify-content: center;
-    text-align: right;
 }
+
 .cabecalho-logo{
     display: flex;
 }
+
 .lista item{
-    margin-left: 30%;
+margin-left: 30%;
     
 }
